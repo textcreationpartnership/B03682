@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>That the bringing on boards above, and paying the plank with stuff under a mill'd-lead-sheathing, is damageable, more charge, and altogether unnecessary plainly prov'd from experience as well as reason.</title>
+            <author>T. H. (Thomas Hale)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03682</idno>
+            <idno type="STC">Wing H266A</idno>
+            <idno type="STC">ESTC R218189</idno>
+            <idno type="EEBO-CITATION">53981661</idno>
+            <idno type="OCLC">ocm 53981661</idno>
+            <idno type="VID">180243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180243)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2823:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>That the bringing on boards above, and paying the plank with stuff under a mill'd-lead-sheathing, is damageable, more charge, and altogether unnecessary plainly prov'd from experience as well as reason.</title>
+                  <author>T. H. (Thomas Hale)</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>October, 1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Tho. Hale.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Ms. notes in left margin of p. 2.</note>
+                  <note>"This paper, with some others, and the book also about the mill'd lead for all purposes, may be had at Mr. Nelme's, a bookseller over against the Royal Exchange, and at Mr. Basset's by Temple-bar"--colophon.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheet-lead --  England --  Early works to 1800.</term>
+               <term>Shipbuilding --  Materials --  Early works to 1800.</term>
+               <term>Shipbuilding --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:180243:1"/>
+            <head>THAT The bringing on <hi>Boards</hi> above, and <hi>Paying</hi> the <hi>Plank</hi> with <hi>Stuff</hi> under a <hi>Mill'd-Lead-Sheathing,</hi> is Damageable, more Charge, and altogether Un<g ref="char:EOLhyphen"/>neceſſary; Plainly prov'd from <hi>Experience</hi> as well as <hi>Reaſon.</hi>
+            </head>
+            <p>SINCE the <hi>Shipwrights</hi> ſee the <hi>Mill'd-Lead Sheathing</hi> is like to go on, and that they can impoſe upon <hi>Merchant-Owners</hi> no longer, they are willing to <hi>play at Small-game, rather than ſtand out.</hi> They prevail with ſome to believe it neceſ<g ref="char:EOLhyphen"/>ſary to ſheath a Strake or two with Boards, to fend the Ship-ſides from Boats and Lyters, which, they ſay, will rub off the <hi>Lead-ſheathing;</hi> and having obtain'd that, they can make bold with a Strake or two more; and, if ſuffer'd to go on, they'll bring it down to the Keel in time. They have advanced very fair for't already, the <hi>Trumbal-Galley,</hi> a Ship between 3 and 400 Ton, bound for the <hi>Eaſt-Indies</hi> in the Com<g ref="char:EOLhyphen"/>pany's ſervice, being this preſent <hi>October</hi> 1697, ſheath'd with <hi>Mill'd-Lead</hi> in Mr. <hi>Kir<g ref="char:EOLhyphen"/>by</hi>'s Dock, had a Board-ſheathing (under this pretence) brought down ſeven Boards on the Sides, and more before and aft upon the Bows and Buttocks, where no Boat or Lyter comes; above one third of the whole Sheathing. All which, upon due conſide<g ref="char:EOLhyphen"/>ration of what follows, will appear from <hi>Experience, Reaſon,</hi> and <hi>Common Senſe,</hi> to be wholly unneceſſary.</p>
+            <div type="part">
+               <head>
+                  <hi>I.</hi> From EXPERIENCE.</head>
+               <p>None of thoſe Twenty Ships of the Royal Navy that were ſheath'd with <hi>Mill'd-Lead</hi> (all totally up above the Wales, as high as any Sheathing goes) had any ſuch Board-ſheathing at all, only ſome of them had a Sheet of Copper, or two-inch Plank, nail'd on in the Wake of the Anchor; and if any ſuch Damage had happen'd from Boats or Lyters, we ſhould certainly have heard of it; for this Objection (as well as rubbing off by Cables, Hawſers, lying on Ground, ſmallneſs and ſhortneſs of the Nails, <hi>&amp;c.)</hi> was made at the beginning, which with the reſt obſtructed the Contract with the Navy-board, till upon Five Years Experience, on Ten Ships in that time ſheath'd with <hi>Mill'd Lead,</hi> (and that but of 2 <hi>l.</hi> or little more, to the foot, whereas this now us'd is full 3 <hi>l.)</hi> that Board found all theſe Objections prov'd but Sur<g ref="char:EOLhyphen"/>miſes, which however not being capable of a Negative Anſwer, till Time ſhould try the Truth thereof, they forbore entring into a Contract, till they had found upon ſufficient Proof and Experience all thoſe Objections were anſwer'd, and the Lead-ſheathing fully approv'd of by them; as they declar'd in the Preamble of their Con<g ref="char:EOLhyphen"/>tract, which then they enter'd into with the <hi>Mill'd-Lead Company</hi> for 20 Years to come, that they might ſecure to the Crown the Benefit thereof at the terms agreed. And when Seven Years after this its Adverſaries, taking advantage of the Company's Neglect and Differences amongſt themſelves, had (by falſe Suggeſtions that this <hi>Sheathing</hi> did in an extraordinary manner eat the Rudder-Irons) prevail'd with that Navy-board to make a Report to the Lords of the Admiralty againſt it; and now, when Twenty Ships were ſheath<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d therewith, they never had the Confidence to mention any of the Old Objections, (which they knew would be falſified, the Sheathings themſelves, or good Evidence, being eaſie to have recourſe to) and which certainly they would have done, if there had been any thing material, of what kind ſoever, to be objected againſt it, beſides this New Whim of eating the Rudder-Irons, nothing elſe but barely that being complain'd of, or ſo much as mention'd in that Report, which diſ<g ref="char:EOLhyphen"/>cover'd no great Good-will that Board themſelves had at that time for the <hi>Lead-ſheathing,</hi> what Right ſoever they had formerly done it upon their Contract. And this of the <hi>Ironwork</hi> having been prov'd falſe and ridiculous, it would be very hard if its Enemies ſhould be permitted to revive the old Objections again; this were to dance in a Circle, which would never end.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>II.</hi> From REASON.</head>
+               <p n="1">1. If this ſuggeſted rubbing off by Boats and Lyters were true, the Damage can<g ref="char:EOLhyphen"/>not be conſiderable, and the Danger nothing, whereas the <hi>Wood-ſheathing</hi> is at leaſt the ſame it was before, worſe, and abundantly dearer; as has been ſhewn elſewhere.</p>
+               <p n="2">
+                  <pb n="2" facs="tcp:180243:2" rendition="simple:additions"/>2. No Boat or Lyter can come at it under Water; and for the Gunnel or upper parts, that may bang or rub againſt the Ship-ſides, it muſt be above Water when<g ref="char:EOLhyphen"/>e'er it happens, and then it muſt be ſeen, and when ſeen, it may be preſently men<g ref="char:EOLhyphen"/>ded, Lead and Nails being alwaies ready on board for that purpoſe, which however perhaps may be prevented with common Care, uſual in other caſes, by Fenders of Juncks, Wooden Rollers, or the like, hung over the Ship ſides in Harbour.</p>
+               <p n="3">3. <hi>Reaſon</hi> would that they ſhould rather ſheath below with Boards, where the rub<g ref="char:EOLhyphen"/>bing off (they talk of) by Cables, Hawſers, and lying on Ground, is more dangerous and out of ſight: But if that Fear be conquer'd, as <hi>Lead-ſheathing</hi> the Bottom owns, methinks there ſhould be no Difficulty of admitting it above, where the Worm eats moſt, (as is known it does between the Load and Light water-line) and the <hi>Lead-ſheathing</hi> ſo certain a Security againſt it, which the Boards are not, but ſerve for a Feaſt only, to entertain the Worm a Voyage or two: And if the <hi>Lead-ſheathing</hi> ſhould rub off in ſome places, (which is not ſo eaſily done as ſome fancy) 'tis with little Charge eaſily mended, as is ſaid, and the Sheathing ſtill as good as at firſt bringing on.</p>
+               <p>There is one thing more which the <hi>Shipwrights</hi> would fain retain, as being ſome <note place="margin">Againſt paying the Sides.</note> profit to them, and damage to the <hi>Lead-ſheathing,</hi> which is <hi>paying</hi> the <hi>Plank</hi> with <hi>Stuff</hi> under the <hi>Lead-ſheathing,</hi> as they have uſed to do under their <hi>Wood-ſheathing.</hi> This alſo by ſufficient <hi>Experience</hi> appears to be altogether unneceſſary and inconve<g ref="char:EOLhyphen"/>nient, beſides the Charge thereof to the Owners; as follows.</p>
+               <p n="1">
+                  <hi>1ſt.</hi> It was by the Inventers of the <hi>Mill'd-Lead-ſheathing</hi> propoſed at firſt, and after<g ref="char:EOLhyphen"/>wards practiſed upon all thoſe 20 Ships that were formerly Sheath'd therewith, that the Ship-ſides ſhould be well Brim'd and the Seams well Caulk'd with a Thread of Spun-Yarn, or Hair, laid in to fill up the Seams even with the Plank, the Bolt<g ref="char:EOLhyphen"/>heads, Braces, or other Iron work to be parcell'd, and over all to bring on the Lead, without paying with any Stuff, how thin ſoever, which leaves an unevenneſs in the Lead, by the Hammer's preſſing the ſoft Body that lies between, in driving the Nails home; as is viſible upon all thoſe Ships that have lately been Sheath'd with Lead, and is always complained of by them, but the Cauſe and <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Remedy never hearkned to, upon the <hi>Shipwright</hi>'s pretence, that this paying with Stuff is abſolutely neceſſary to preſerve the Plank.</p>
+               <p n="2">
+                  <hi>2ly.</hi> Now if it has been found by <hi>Experience,</hi> that the Plank, after hardning, by Briming at firſt when <hi>Lead-ſheathings</hi> were brought on, have continued firm and found under thoſe Sheathings for Seven, Eight, Ten, or Twelves Years together, without any cauſe of Complaint, which muſt have appeared at their Strippings, and been Complained of by its active Enemies, if any Damage had come to the Plank by this omiſſion of paying, of which no Complaint was ever heard, nor ever object<g ref="char:EOLhyphen"/>ed at firſt among their other ſurmiſes, which probably they forgot then, but would have been ſure to have remembred if they had found any ſuch thing upon Strip<g ref="char:EOLhyphen"/>ping any Ship afterwards: But the contrary thereof was then very remarkable, that their Plank was found to be as ſmooth and found under their <hi>Lead-ſheathings</hi> (in par<g ref="char:EOLhyphen"/>ticular the <hi>Dreadnought</hi>'s, which had been on near Twelve Years) as at firſt doing.</p>
+               <p>This muſt certainly convince any unprejudic'd Perſon, that this paying of the Plank under a <hi>Lead-ſheathing</hi> is alſo altogether unneceſſary as well as inconvenient and chargeable, and conſequently they will lay it aſide for the future.</p>
+               <p>There is one thing lately objected that was never heard of before, <hi>viz.</hi> That the <hi>Mill'd Lead</hi> is of a drying nature, which lying upon a Seam above Water, drys and ſhrinks the Oakam, whereas the ſame being covered with a parcelling of Canvas, preſerves the Oakam moiſt, and makes it laſt much longer, without new Caulking. And it may be true, though this proceeds from no drying quality in the Lead, more than if the Seam were covered with Copper, Tin, or any other Metal, which be<g ref="char:EOLhyphen"/>ing expoſed to the Sun and Air, will doubtleſs be dryer upon any thing 'tis laid than Canvas dipp'd in Stuff, till it be dryed and the Vertue of the Pitch exhauſted, which may ſtill be laid upon ſuch Seams, and if they ſee cauſe, may bring a piece of <hi>Sheathing-Lead</hi> over it, which muſt ſtill preſerve it longer. A quite contrary Qua<g ref="char:EOLhyphen"/>lity was once objected againſt the <hi>Mill'd-Lead,</hi> when it was imployed in the Navy, to lyne the Bread-Rooms, that they had diſcovered ſuch dampneſs and moiſture therein, that did corrupt and ſpoil the Biſquet, upon which it was diſcontinued, though 'tis known nothing preſerves things better: And ſeveral Purſers Certificates were produced, that their Biſquet was preſerved much better and longer when their Bread-Rooms were lined with Lead than before, as has been ſhewn already.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>October, 1697.</date>
+               </dateline>
+               <signed>THO. HALE.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>☞This Paper, with ſome others, and the Book alſo about the</hi> Mill'd Lead <hi>for all purpoſes, may be had at Mr.</hi> Nelme'<hi>s, a Bookſeller over againſt the</hi> Royal Exchange, <hi>and at Mr.</hi> Baſſet'<hi>s by</hi> Temple-bar.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
